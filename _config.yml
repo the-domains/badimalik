@@ -1,0 +1,28 @@
+name: badimalik
+favicon: null
+layout_spectrum: 0.41242831689305604
+typography_spectrum: 0.08826942322775722
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.38421631744131446
+  lightness: 0.44433443038724363
+  saturation: 0.2075434410944581
+  rhythmicContrast: 0.9745069688651711
+purpose: []
